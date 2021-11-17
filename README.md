@@ -4,7 +4,7 @@ Me chamo Matheus Iam.
 <div align="center">
   <a href="https://github.com/matheusiam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusiam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusiam&layout=compact&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusiam&repo=github-readme-stats&theme=dark"/>
 </div>
 
 <!--
