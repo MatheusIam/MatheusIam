@@ -1,5 +1,4 @@
-### Olá 👋
-Me chamo Matheus Iam.
+### Oi eu sou o Matheus Iam, programador assíduo e disposto em novas tecnologias.
 
 <div align="center">
   <a href="https://github.com/matheusiam">
