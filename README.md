@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <a href = "mailto:matheusiam@pm.m2"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/matheusiam/matheusiam/blob/output/github-contribution-grid-snake.svg)
  
 </div>
