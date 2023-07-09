@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <div> 
   <a href="https://instagram.com/matheus.iaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusiam@pm.m2"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusiam@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/matheusiam/matheusiam/blob/output/github-contribution-grid-snake.svg)
