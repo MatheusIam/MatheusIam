@@ -1,4 +1,14 @@
-### Oi eu sou o Matheus Iam, programador assíduo e disposto em novas tecnologias.
+### Oi eu sou o Matheus Iam, programador full stack Java.
+<br>
+Tecnologias que eu trabalho:<br>
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/matheusiam">
@@ -21,11 +31,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Tem uma fofoca ou quer entrar em contato comigo?
 <div> 
   <a href="https://instagram.com/matheus.iaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusiam@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-
- 
-  ![Snake animation](https://github.com/matheusiam/matheusiam/blob/output/github-contribution-grid-snake.svg)
  
 </div>
