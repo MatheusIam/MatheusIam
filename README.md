@@ -1,4 +1,4 @@
-### Oi eu sou o Matheus Iam, programador full stack.
+### Me chamo Matheus Iam, sou programador full stack.
 <br>
 Tecnologias que eu trabalho:<br>
 <div>
