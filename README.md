@@ -15,6 +15,7 @@
 
 <!-- Design -->
 <img src="https://img.shields.io/badge/Material%20Design-757575.svg?style=for-the-badge&logo=Material-Design&logoColor=white" target="_blank"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" target="_blank"/>
 
 <!-- DevOps -->
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" target="_blank"/>
