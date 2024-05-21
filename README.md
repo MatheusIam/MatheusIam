@@ -1,3 +1,6 @@
+<img src="https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2EP14mWkbx9sq03nWnRSGT/f1d22d88bb5dde030275f9520c0f2e92/React_YT_Thumbnail.png" min-width="1000px" max-width="1000px" width="1000px" align="top" alt="developerLife">
+
+
 ### Hi 👋! My name is Matheus... I'm a ReactJS developer..
 <br>
 <div>
